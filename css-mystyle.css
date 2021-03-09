@@ -1,0 +1,30 @@
+
+body{
+    background-color: hsl(204, 43%, 93%);
+    
+}
+
+h3{
+color:  hsl(218, 22%, 67%);
+
+}
+
+h4{
+  color:   hsl(71, 79%, 62%);
+}
+
+p{
+    color: hsl(218, 22%, 67%);
+}
+
+span{
+    font-size: 29px;
+    color: white;
+}
+
+.btn{
+    color: white;
+}
+.Monthly{
+    background-color: 
+}
